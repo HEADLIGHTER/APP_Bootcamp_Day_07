@@ -41,6 +41,7 @@ def get_qa_dict(qa: BSoup):
 
 
 def get_measurments(q: str, a: str):
+	resp, h_r, b_l, p_d = 0, 0, 0, 0
 	try:
 		resp = int(input(' Respiration: '))
 		h_r = int(input(' Heart rate: '))

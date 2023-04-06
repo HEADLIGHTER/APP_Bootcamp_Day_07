@@ -4,6 +4,8 @@ from random import shuffle, randint
 from data import m_list, j_list
 from statistics import mean
 import argparse
+import markdown as marka
+from python_markdown_comments import CommentsExtension
 
 
 def voight_kampff(s: str):
