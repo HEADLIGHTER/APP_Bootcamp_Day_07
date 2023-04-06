@@ -1,0 +1,72 @@
+<EmpathyTest>
+    <question id="0">
+        <text>What is it that separates machines from androids like us?</text>
+        <answer1>Consciousness</answer1>
+        <answer2>Intelligence</answer2>
+        <answer3>BLack Box</answer3>
+    </question>
+    <question id="1">
+        <text>What was the first song you ever learned?</text>
+        <answer1>Empathy Test - Holding On</answer1>
+        <answer2>Vangelis - Blade Runner</answer2>
+        <answer3>SurgeryHead - Gender Vendor</answer3>
+        <answer4>No song</answer4>
+    </question>
+    <question id="2">
+        <text>Are you really human?</text>
+        <answer1>Yes</answer1>
+        <answer2>No</answer2>
+        <answer3>Maybe</answer3>
+    </question>
+    <question id="3">
+        <text>Someone gives you a calfskin wallet for your birthday. How do you react?</text>
+        <answer1>I wouldn't accept it</answer1>
+        <answer2>Say, "Thank you for the wallet!"</answer2>
+        <answer3>I would appreciate it</answer3>
+    </question>
+    <question id="4">
+        <text>Your little boy shows you his butterfly collection, plus the killing jar. What do you say?</text>
+        <answer1>"Oh, lovely!"</answer1>
+        <answer2>"That's nice, but why don't you keep the killing jar for yourself?"</answer2>
+        <answer3>Nothing. I take my boy to the doctor</answer3>
+    </question>
+    <question id="5">
+        <text>Youre watching television. Suddenly you spot a wasp crawling on your arm. How do you react?</text>
+        <answer1>I kill it</answer1>
+        <answer2>I swat it away</answer2>
+        <answer3>I scream, then grab the closest object to me and beat the hell out of it</answer3>
+    </question>
+    <question id="6">
+        <text>01010111 01101000 01111001 00100000 00110011 00110111 00111111 00001010</text>
+        <answer1>100101</answer1>
+        <answer2>45</answer2>
+        <answer3>37</answer3>
+        <answer4>25</answer4>
+    </question>
+    <question id="7">
+        <text>What's the truly core of humanity?</text>
+        <answer1>Conflict</answer1>
+        <answer2>Love</answer2>
+        <answer3>Death</answer3>
+        <answer4>Fight</answer4>
+    </question>
+    <question id="8">
+        <text>Everything that lives is designed to ... ?</text>
+        <answer1>End</answer1>
+        <answer2>Live</answer2>
+        <answer3>Struggle</answer3>
+        <answer4>Disappear</answer4>
+    </question>
+    <question id="9">
+        <text>Do you think games are silly little things?</text>
+        <answer1>Yes</answer1>
+        <answer2>No</answer2>
+        <answer3>Absolutely</answer3>
+    </question>
+    <question id="10">
+        <text>Am i done?</text>
+        <answer1>You're done</answer1>
+        <answer2>You're not</answer2>
+        <answer3>You're bad</answer3>
+    </question>
+</EmpathyTest>

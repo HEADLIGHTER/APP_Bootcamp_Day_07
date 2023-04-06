@@ -1,0 +1,15 @@
+<EmpathyTest>
+    <question id="0">
+        <text>Question?</text>
+        <answer1>Ok</answer1>
+        <answer2>No</answer2>
+        <answer3>Answer</answer3>
+        <answer4>Question</answer4>
+    </question>
+    <question id="1">
+        <text>What is it that separates machines from androids like us?</text>
+        <answer1>Consciousness</answer1>
+        <answer2>Intelligence</answer2>
+        <answer3>Black Box</answer3>
+    </question>
+</EmpathyTest>
